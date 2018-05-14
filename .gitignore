@@ -1,0 +1,9 @@
+# Jekyll stuff
+_site/
+.sass-cache/
+.jekyll-metadata
+
+# IDE
+.idea
+
+Resources/
