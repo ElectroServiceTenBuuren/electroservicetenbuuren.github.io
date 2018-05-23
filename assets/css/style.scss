@@ -3,9 +3,9 @@
 
 @import "{{ site.theme }}";
 
-a {
+a, a:visited, a:active, a:link, a::selection {
   color: #494949;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 a:hover {
@@ -31,6 +31,7 @@ body {
   a {
     color: #222;
     font-size: 16px;
+    font-weight: bold;
   }
 }
 
@@ -41,5 +42,6 @@ body {
   a {
     color: #222;
     font-size: 16px;
+    font-weight: bold;
   }
 }
