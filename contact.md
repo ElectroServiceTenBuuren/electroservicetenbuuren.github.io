@@ -14,7 +14,7 @@ permalink: /contact/
 
 #### Telefoonnummer:
 
-[074-376 5056](tel:0743765056)
+[074-376 5056](tel:+31743765056)
 
 #### Adres:
 Electroservice ten Buuren  
