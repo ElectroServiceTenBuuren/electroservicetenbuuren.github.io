@@ -18,32 +18,21 @@
     <header>
         <a href="{{ "/" | relative_url }}"> <img src="{{ site.baseurl }}/assets/images/Logo.png" alt="Electo-Service-ten-Buuren-Logo"> </a>
         <br/>
-        <p class="view"><a href="{{ 'reparaties' | relative_url}}">Reparaties</a></p>
-        <p class="view"><a href="{{ 'keuringen' | relative_url}}">Keuringen</a></p>
-        <p class="view"><a href="{{ 'inspecties' | relative_url}}">Inspecties</a></p>
-        <p class="view"><a href="{{ 'producten' | relative_url}}">Producten</a></p>
+        <div class="sitebar-links">
+            <p class="view"><a href="{{ 'reparaties' | relative_url}}">Reparaties</a></p>
+            <p class="view"><a href="{{ 'keuringen' | relative_url}}">Keuringen</a></p>
+            <p class="view"><a href="{{ 'inspecties' | relative_url}}">Inspecties</a></p>
+            <p class="view"><a href="{{ 'producten' | relative_url}}">Producten</a></p>
+            <p class="view"><a href="{{ 'contact' | relative_url}}">Contact</a></p>
+        </div>
 
         <br/>
-        <h4 class="view">Contact</h4>
+        <hr/>
 
-        <p style="font-weight: bold">Adres:</p>
-        <label>Electroservice ten Buuren</label>
-        <br/>
-        <label>Sluisstraat 8</label>
-        <br/>
-        <label>7491 GA</label>
-        <br/>
-        <label>Delden</label>
-        <br/>
-        <br/>
-
-        <p style="font-weight: bold">Email:</p>
-        <a href="mailto:{{ site.email }}">info@mtenbuuren.nl</a>
-        <br/>
-        <br/>
-
-        <p style="font-weight: bold">Telefoon:</p>
-        <label>074-3765056</label>
+        <div class="contact-links">
+            <p class="view"><a href="mailto:{{ site.email }}"><i class="fas fa-envelope"></i> info@mtenbuuren.nl</a></p>
+            <p class="view"><a href="#"><i class="fas fa-phone"></i> 074-736 5056</a></p>
+        </div>
     </header>
     <section>
 

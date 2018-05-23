@@ -1,0 +1,45 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a {
+  color: #494949;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #494949;
+  font-weight: bold;
+}
+
+hr {
+  background: #333;
+}
+
+body {
+  background: #f4f4f4;
+  color: #555;
+  font: 14px/1.5 Arial, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.sitebar-links {
+  p {
+    text-align: right;
+  }
+  padding-top: 20px;
+  a {
+    color: #222;
+    font-size: 16px;
+  }
+}
+
+.contact-links {
+  p {
+    text-align: center;
+  }
+  a {
+    color: #222;
+    font-size: 16px;
+  }
+}
