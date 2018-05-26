@@ -3,8 +3,14 @@
 
 @import "{{ site.theme }}";
 
-a, a:visited, a:active, a:link, a::selection {
-  color: #494949;
+
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+  outline: 0;
+  color:  #494949;
   font-weight: normal;
 }
 
@@ -18,7 +24,6 @@ hr {
 }
 
 body {
-  background: #f4f4f4;
   color: #555;
   font: 14px/1.5 Arial, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
