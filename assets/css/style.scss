@@ -50,3 +50,25 @@ body {
     font-weight: bold;
   }
 }
+
+// Products
+
+p.products {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+
+  a{
+    min-height: 80px;
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+}
+
+p.products .col {
+  width: 32%;
+  margin: 8px;
+  padding: 8px;
+  border: 1px solid black;
+}
