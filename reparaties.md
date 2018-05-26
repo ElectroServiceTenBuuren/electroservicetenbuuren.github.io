@@ -14,4 +14,4 @@ Defecte machines kunt u bij ons ter reparatie aanbieden. Alvorens wij uw machine
 
 Eventueel kunnen wij de te repareren machines bij u ophalen. Om het ophalen en terugbrengen zo soepel mogelijk te laten verlopen, kunnen wij u een reparatie rouleerbak leveren.
 
-![ReparatiesImage]({{ "/assets/images/reparaties-image.jpg" | absolute_url }})
+![ReparatiesImage]({{ "/assets/images/Reparaties.jpg" | absolute_url }})

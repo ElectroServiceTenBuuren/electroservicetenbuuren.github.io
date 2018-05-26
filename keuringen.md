@@ -14,7 +14,7 @@ Electro Service ten Buuren heeft de certificaten en deskundigheid in huis om al 
 
 Wij voorzien uw klimmateriaal van alle stickers, aanwijzingen en certificaten zodat u bij controle door de ARBO dienst direct en duidelijk kunt laten zien dat u aan alle geldende eisen voldoet.
 
-![KeuringenImage]({{ "/assets/images/keuringen-image.jpg" | absolute_url }})
+![KeuringenImage]({{ "/assets/images/Keuringen.jpg" | absolute_url }})
 
 ## Keuringen elektrisch gereedschap
 
