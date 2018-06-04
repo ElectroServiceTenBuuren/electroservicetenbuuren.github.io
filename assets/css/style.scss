@@ -32,6 +32,11 @@ body {
   p {
     text-align: right;
   }
+  @media (max-width: 960px) {
+    p {
+      text-align: center;
+    }
+  }
   padding-top: 20px;
   a {
     color: #222;
