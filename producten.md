@@ -20,7 +20,7 @@ permalink: /producten/
 
 {:.products}
 <a class="col" href="https://www.kem-europe.eu/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/FEMI-logo-transp.png')">
-<a class="col" href="#" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Ghibli-RGB.jpg')">
+<a class="col" href="https://trade-wind.nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/GHIBLI LOGO.jpg')">
 <a class="col" href="https://www.degreef-ochten.nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Greef-logo.jpg')">
 
 {:.products}
