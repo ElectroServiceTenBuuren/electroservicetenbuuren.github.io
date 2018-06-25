@@ -20,19 +20,15 @@ permalink: /producten/
 
 {:.products}
 <a class="col" href="https://www.fein.com/nl_nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/FEIN Logo.png')">
-<a class="col" href="https://www.kem-europe.eu/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/FEMI-logo-transp.png')">
-<a class="col" href="https://trade-wind.nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/GHIBLI LOGO.jpg')">
-
-{:.products}
 <a class="col" href="https://www.degreef-ochten.nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Greef-logo.jpg')">
-<a class="col" href="https://www.hekatech.nl/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/hekatech4.bmp')">   
-<a class="col" href="https://www.kem-europe.eu/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/KEM logo.png')">
+<a class="col" href="https://www.hekatech.nl/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/hekatech4.bmp')">  
 
-{:.products}
+{:.products} 
+<a class="col" href="https://www.kem-europe.eu/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/KEM logo.png')">
 <a class="col" href="https://www.keyangpowertools.nl/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Keyang Logo.jpg')">
 <a class="col" href="https://www.hitachi-powertools.nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/logo Hitachi.jpg')">
-<a class="col" href="http://www.perfectpro.nl/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Logo Perfectpro.png')">
-  
+
 {:.products}
+<a class="col" href="http://www.perfectpro.nl/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Logo Perfectpro.png')">
 <a class="col" href="https://www.degreef-ochten.nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Maxall logo.jpg')">
- <a class="col" href="http://equibv.nl/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Starmix_Logo.jpg')">
+<a class="col" href="http://equibv.nl/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Starmix_Logo.jpg')">
