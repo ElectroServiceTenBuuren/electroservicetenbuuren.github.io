@@ -16,19 +16,19 @@ permalink: /producten/
 {:.products}
 <a class="col" href="https://www.carat-tools.nl/" target="_blank" style="background-image: url('{{  site.baseurl }}/assets/images/products/Carat Nederland.png')">
 <a class="col" href="http://www.contimac.be/nl/home" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Contimac-CMYK.jpg')">
-<a class="col" href="http://www.dewalt.nl/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Stanley Black-and-Decker.png')">
+<a class="col" href="https://www.fein.com/nl_nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/FEIN Logo.png')">
 
 {:.products}
-<a class="col" href="https://www.fein.com/nl_nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/FEIN Logo.png')">
 <a class="col" href="https://www.degreef-ochten.nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Greef-logo.jpg')">
 <a class="col" href="https://www.hekatech.nl/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/hekatech4.bmp')">  
+<a class="col" href="https://www.hitachi-powertools.nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/logo Hitachi.jpg')">
 
 {:.products} 
 <a class="col" href="https://www.kem-europe.eu/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/KEM logo.png')">
 <a class="col" href="https://www.keyangpowertools.nl/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Keyang Logo.jpg')">
-<a class="col" href="https://www.hitachi-powertools.nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/logo Hitachi.jpg')">
+<a class="col" href="https://www.degreef-ochten.nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Maxall logo.jpg')">
 
 {:.products}
 <a class="col" href="http://www.perfectpro.nl/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Logo Perfectpro.png')">
-<a class="col" href="https://www.degreef-ochten.nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Maxall logo.jpg')">
+<a class="col" href="http://www.dewalt.nl/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Stanley Black-and-Decker.png')">
 <a class="col" href="http://equibv.nl/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Starmix_Logo.jpg')">
