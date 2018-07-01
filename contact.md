@@ -17,7 +17,7 @@ permalink: /contact/
 [074-376 5056](tel:+31743765056)
 
 #### Facebook:
-[ElectroservicetenBuuren](https://www.facebook.com/ElectroservicetenBuuren/)
+[Electroservice Martin ten Buuren](https://www.facebook.com/ElectroservicetenBuuren/)
 
 #### Adres:
 
