@@ -1,5 +1,7 @@
 ---
-layout: default
+Layout: page
+title: Home
+permalink: /
 ---
 
 # Electro Service ten Buuren
