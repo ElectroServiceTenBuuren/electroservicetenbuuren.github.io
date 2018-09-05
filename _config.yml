@@ -19,7 +19,7 @@ email: info@mtenbuuren.nl
 url: https://ElectroServiceTenBuuren.github.io
 
 
-google_analytics: #ToDo
+google_analytics: UA-125326042-1
 
 # Build settings
 markdown: kramdown
