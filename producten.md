@@ -20,7 +20,7 @@ permalink: /producten/
 
 {:.products}
 <a class="col" href="https://www.degreef-ochten.nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Greef-logo.jpg')">
-<a class="col" href="https://www.hekatech.nl/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/hekatech4.bmp')">  
+<a class="col" href="https://www.hekatech.nl/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/hekatech4.png')">  
 <a class="col" href="https://www.hitachi-powertools.nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/logo Hitachi.jpg')">
 
 {:.products} 
