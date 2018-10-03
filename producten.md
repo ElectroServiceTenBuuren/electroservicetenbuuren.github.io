@@ -9,14 +9,19 @@ permalink: /producten/
 ***
 
 {:.products}
-<a class="col" href="https://www.kem-europe.eu/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/baier.png')">
+<a class="col" href="https://www.kem-europe.eu/baier-gereedschap/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/baier.png')">
 <a class="col" href="https://www.bosch-professional.com/nl/nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Bosch_4C_S.png')">
 <a class="col" href="http://www.brown.be/Default.aspx" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/BROWN_logo-1.png')">
 
 {:.products}
 <a class="col" href="https://www.carat-tools.nl/" target="_blank" style="background-image: url('{{  site.baseurl }}/assets/images/products/Carat Nederland.png')">
 <a class="col" href="http://www.contimac.be/nl/home" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Contimac-CMYK.jpg')">
+<a class="col" href="http://www.kernboormachines.nl/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Euroboor_Logo.jpg')">
+
+{:.products}
 <a class="col" href="https://www.fein.com/nl_nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/FEIN Logo.png')">
+<a class="col" href="https://www.kem-europe.eu/femi/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/FEMI-logo-transp.png')">
+<a class="col" href="https://trade-wind.nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/GHIBLI LOGO.jpg')">
 
 {:.products}
 <a class="col" href="https://www.degreef-ochten.nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Greef-logo.jpg')">
