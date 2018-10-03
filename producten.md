@@ -21,7 +21,7 @@ permalink: /producten/
 {:.products}
 <a class="col" href="https://www.degreef-ochten.nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/Greef-logo.jpg')">
 <a class="col" href="https://www.hekatech.nl/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/hekatech4.png')">  
-<a class="col" href="https://www.hitachi-powertools.nl" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/logo Hitachi.jpg')">
+<a class="col" href="https://hikoki-powertools.nl/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/logo HiKOKI zwart.jpg')">
 
 {:.products} 
 <a class="col" href="https://www.kem-europe.eu/" target="_blank" style="background-image: url('{{ site.baseurl }}/assets/images/products/KEM logo.png')">
